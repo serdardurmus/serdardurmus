@@ -8,6 +8,27 @@
 
 ## 📚 Learning & Interested
 <code><img src="./python.png" width="40" height="40" alt="python"></code>
+<code><img src="./js.png" width="40" height="40" alt = "js" ></code>
+<code><img src="./es6.jpg" width="40" height="40" alt = "es6" ></code>
+<code><img src="./reactt.png" width="40" height="40" alt = "reactt" ></code>
+<code><img src="./reactn.png" width="40" height="40" alt = "reactn" ></code>
+<code><img src="./node.png" width="40" height="40" alt = "nodejs" ></code>
+<code><img src="./mongo.png" width="40" height="40" alt = "mongodb" ></code>
+<code><img src="./firebase.png" width="40" height="40" alt = "firebase" ></code>
+<code><img src="./html.png" width="40" height="40" alt = "hmtl" ></code>
+<code><img src="./css3.png" width="40" height="40" alt = "css3" ></code>
+<code><img src="./sass.png" width="40" height="40" alt = "sass" ></code>
+<code><img src="./jira.jpg" width="40" height="40" alt = "jira" ></code>
+<code><img src="./sgithub.png" width="40" height="40" alt = "github" ></code>
+<code><img src="./bootstrap.png" width="40" height="40" alt = "bootstrap" ></code>
+<code><img src="./font.jpg" width="40" height="40" alt = "font" ></code>
+<code><img src="./linux.png" width="40" height="40" alt = "linux" ></code>
+<code><img src="./git.png" width="40" height="40" alt = "gitbash" ></code>
+<code><img src="./drive.png" width="40" height="40" alt = "googledrive" ></code>
+<code><img src="./gmail.jpg" width="40" height="40" alt = "gmail" ></code>
+<code><img src="./slack0.jpg" width="40" height="40" alt = "slack" ></code>
+<code><img src="./stackover.png" width="40" height="40" alt = "stackover" ></code>
+<code><img src="./vscode.png" width="40" height="40" alt = "vscode" ></code>
 
 ## 📚 My Medium Account
 [@serdar83durmus](https://medium.com/@serdar83durmus)
