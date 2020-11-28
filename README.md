@@ -8,6 +8,7 @@
 
 ## 📚 Learning & Interested
 <code><img src="./python.png" width="40" height="40" alt="python"></code>
+<code><img src="./dj.png" width="40" height="40" alt="django"></code>
 <code><img src="./js.png" width="40" height="40" alt = "js" ></code>
 <code><img src="./es6.jpg" width="40" height="40" alt = "es6" ></code>
 <code><img src="./reactt.png" width="40" height="40" alt = "reactt" ></code>
@@ -23,6 +24,7 @@
 <code><img src="./bootstrap.png" width="40" height="40" alt = "bootstrap" ></code>
 <code><img src="./font.jpg" width="40" height="40" alt = "font" ></code>
 <code><img src="./linux.png" width="40" height="40" alt = "linux" ></code>
+<code><img src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" height="40" alt = "linux" ></code>
 <code><img src="./git.png" width="40" height="40" alt = "gitbash" ></code>
 <code><img src="./drive.png" width="40" height="40" alt = "googledrive" ></code>
 <code><img src="./gmail.jpg" width="40" height="40" alt = "gmail" ></code>
