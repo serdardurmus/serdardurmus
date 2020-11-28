@@ -14,17 +14,16 @@
 <code><img src="./reactt.png" width="40" height="40" alt = "reactt" ></code>
 <code><img src="./reactn.png" width="40" height="40" alt = "reactn" ></code>
 <code><img src="./node.png" width="40" height="40" alt = "nodejs" ></code>
-<code><img src="./mongo.png" width="40" height="40" alt = "mongodb" ></code>
-<code><img src="./firebase.png" width="40" height="40" alt = "firebase" ></code>
-<code><img src="./html.png" width="40" height="40" alt = "hmtl" ></code>
-<code><img src="./css3.png" width="40" height="40" alt = "css3" ></code>
+<code><img src="https://docs.mongodb.com/images/mongodb-logo.png" height="40" alt = "mongodb" ></code>
+<code><img src="https://www.gstatic.com/devrel-devsite/prod/v73fbca10ce7899da426d451b3f74ee09bc6846fcf427552c7e8e85261505ef2c/firebase/images/lockup.png" height="40" alt = "firebase" ></code>
+<code><img src="https://clipart.info/images/ccovers/1499794874html5-js-css3-logo-png.png" height="40" alt = "html-js-css3" ></code>
 <code><img src="./sass.png" width="40" height="40" alt = "sass" ></code>
 <code><img src="./jira.jpg" width="40" height="40" alt = "jira" ></code>
 <code><img src="./sgithub.png" width="40" height="40" alt = "github" ></code>
 <code><img src="./bootstrap.png" width="40" height="40" alt = "bootstrap" ></code>
 <code><img src="./font.jpg" width="40" height="40" alt = "font" ></code>
 <code><img src="./linux.png" width="40" height="40" alt = "linux" ></code>
-<code><img src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" height="40" alt = "linux" ></code>
+<code><img src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" height="40" alt = "sqlite" ></code>
 <code><img src="./git.png" width="40" height="40" alt = "gitbash" ></code>
 <code><img src="./drive.png" width="40" height="40" alt = "googledrive" ></code>
 <code><img src="./gmail.jpg" width="40" height="40" alt = "gmail" ></code>
