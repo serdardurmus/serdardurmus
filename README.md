@@ -8,6 +8,7 @@
 
 ## 📚 Learning & Interested
 <code><img height="60" src="https://www.python.org/static/img/python-logo.png"></code>
+<img src="./python.png" width="25" height="25" alt="python">
 
 ## 📚 My Medium Account
 [@serdar83durmus](https://medium.com/@serdar83durmus)
