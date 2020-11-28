@@ -7,29 +7,32 @@
 </p>
 
 ## 📚 Learning & Interested
-<code><img src="./python.png" width="40" height="40" alt="python"></code>
-<code><img src="./dj.png" width="40" height="40" alt="django"></code>
-<code><img src="./js.png" width="40" height="40" alt = "js" ></code>
-<code><img src="./es6.jpg" width="40" height="40" alt = "es6" ></code>
-<code><img src="./reactt.png" width="40" height="40" alt = "reactt" ></code>
-<code><img src="./reactn.png" width="40" height="40" alt = "reactn" ></code>
-<code><img src="./node.png" width="40" height="40" alt = "nodejs" ></code>
-<code><img src="https://docs.mongodb.com/images/mongodb-logo.png" height="40" alt = "mongodb" ></code>
-<code><img src="https://www.gstatic.com/devrel-devsite/prod/v73fbca10ce7899da426d451b3f74ee09bc6846fcf427552c7e8e85261505ef2c/firebase/images/lockup.png" height="40" alt = "firebase" ></code>
-<code><img src="https://clipart.info/images/ccovers/1499794874html5-js-css3-logo-png.png" height="40" alt = "html-js-css3" ></code>
-<code><img src="./sass.png" width="40" height="40" alt = "sass" ></code>
-<code><img src="./jira.jpg" width="40" height="40" alt = "jira" ></code>
-<code><img src="./sgithub.png" width="40" height="40" alt = "github" ></code>
-<code><img src="./bootstrap.png" width="40" height="40" alt = "bootstrap" ></code>
-<code><img src="./font.jpg" width="40" height="40" alt = "font" ></code>
-<code><img src="./linux.png" width="40" height="40" alt = "linux" ></code>
-<code><img src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" height="40" alt = "sqlite" ></code>
-<code><img src="./git.png" width="40" height="40" alt = "gitbash" ></code>
-<code><img src="./drive.png" width="40" height="40" alt = "googledrive" ></code>
-<code><img src="./gmail.jpg" width="40" height="40" alt = "gmail" ></code>
-<code><img src="./slack0.jpg" width="40" height="40" alt = "slack" ></code>
-<code><img src="./stackover.png" width="40" height="40" alt = "stackover" ></code>
-<code><img src="./vscode.png" width="40" height="40" alt = "vscode" ></code>
+<p align="center">
+<img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=python width="30" height="30"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="30" height="30"/>
+<img src=https://devicon.dev/devicon.git/icons/django/django-original.svg alt=django height="30"/>
+<img src=https://devicon.dev/devicon.git/icons/github/github-original.svg alt=github width="30" height="30"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg alt=react width="30" height="30"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg alt=mongodb width="30" height="30"/>
+<img src="./es6.jpg" width="30" height="30" alt = "es6" >
+<img src="./jira.jpg" width="30" height="30" alt = "jira" >
+<img src="https://www.gstatic.com/devrel-devsite/prod/v73fbca10ce7899da426d451b3f74ee09bc6846fcf427552c7e8e85261505ef2c/firebase/images/lockup.png" height="30" alt = "firebase" >
+<img src="./font.jpg" alt=font width="30" height="30"/>
+<img src="./stackover.png" alt=vscode width="30" height="30"/>
+<img src="./vscode.png" alt=stackover width="30" height="30"/>
+<img src="./slack0.jpg" alt=slack width="30" height="30"/>
+<img src="./bootstrap.png" alt=bootstrap width="30" height="30"/>
+<img src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" alt=sqlite height="30"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg alt=express width="30" height="30"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg alt=express width="30" height="30"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg alt=express width="30" height="30"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg alt=git width="30" height="30"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
+</p>
 
 ## 📚 My Medium Account
 [@serdar83durmus](https://medium.com/@serdar83durmus)
