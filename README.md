@@ -18,7 +18,8 @@ Also working as a freelancer.
 ## 📫 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/serdardurmusj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="serdardurmusj" height="30" width="40" /></a>
-<a href="https://medium.com/@serdardurmusj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="serdardurmusj" height="30" width="40" /></a> <a href="mail:serdar83durmus@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://medium.com/@serdardurmusj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="serdardurmusj" height="30" width="40" /></a> <a href="mailto:serdar83durmus@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a> <a href="https://www.facebook.com/serdardurmusj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="serdardurmusj" height="20" width="20" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="serdardurmusj" height="20" width="20" /></a>
 </p>
 
 [![GitHub Follow Badge](https://img.shields.io/github/followers/serdardurmus?label=follow&style=social)](https://github.com/serdardurmus)
