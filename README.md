@@ -13,24 +13,21 @@
 <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
 <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
 <img src=https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="30" height="30"/>
-<img src=https://devicon.dev/devicon.git/icons/django/django-original.svg alt=django height="30"/>
+<img src=https://devicon.dev/devicon.git/icons/django/django-original.svg alt=django height="40"/>
 <img src=https://devicon.dev/devicon.git/icons/github/github-original.svg alt=github width="30" height="30"/>
 <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg alt=react width="30" height="30"/>
 <img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/>
 <img src=https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg alt=mongodb width="30" height="30"/>
 <img src="./es6.jpg" width="30" height="30" alt = "es6" >
 <img src="./jira.jpg" width="30" height="30" alt = "jira" >
-<img src="https://www.gstatic.com/devrel-devsite/prod/v73fbca10ce7899da426d451b3f74ee09bc6846fcf427552c7e8e85261505ef2c/firebase/images/lockup.png" height="30" alt = "firebase" >
+<img src="https://www.gstatic.com/devrel-devsite/prod/v73fbca10ce7899da426d451b3f74ee09bc6846fcf427552c7e8e85261505ef2c/firebase/images/touchicon-180.png" height="30" alt = "firebase" >
 <img src="./font.jpg" alt=font width="30" height="30"/>
 <img src="./stackover.png" alt=vscode width="30" height="30"/>
 <img src="./vscode.png" alt=stackover width="30" height="30"/>
 <img src="./slack0.jpg" alt=slack width="30" height="30"/>
 <img src="./bootstrap.png" alt=bootstrap width="30" height="30"/>
 <img src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" alt=sqlite height="30"/>
-<img src=https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg alt=express width="30" height="30"/>
-<img src=https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg alt=express width="30" height="30"/>
-<img src=https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg alt=express width="30" height="30"/>
-<img src=https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg alt=git width="30" height="30"/>
+<img src=https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg alt=gitbash width="30" height="30"/>
 <img src=https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
 </p>
 
