@@ -21,9 +21,7 @@ Also working as a freelancer.
 <a href="https://medium.com/@serdardurmusj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="serdardurmusj" height="30" width="40" /></a>
 </p>
 
-## ⚡ Spotify
-I love startup culture :)
-Even though I have a few sinking or not holding ideas, I will contribute to the startup culture without giving up, for a better world.
+[![GitHub Follow Badge](https://img.shields.io/github/followers/serdardurmus?label=follow&style=social)](https://github.com/serdardurmus)
 
 <a href="https://spotify-snippet.vercel.app/whatiamlistening?open">
     <img src="https://spotify-snippet.vercel.app/whatiamlistening" width="456" height="120" alt="Now Playing">
