@@ -10,6 +10,7 @@ Du kan finne noen eksperimentelle og forked prosjekter på repoene mine, gjerne 
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdardurmus&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 <hr>
+
 ### Ta kontakt med meg
 <p align="left">
 <a href="https://www.linkedin.com/in/serdardurmusj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="serdardurmusj" height="30" width="40" /></a>
